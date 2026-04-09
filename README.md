@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋 I'm Man
 
-<!--
-**Hemajun2018/Hemajun2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent developer building AI-powered SaaS products for global users.
 
-Here are some ideas to get you started:
+#### 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[NotebookConvert](https://notebookconvert.com)** — A free, privacy-first tool to convert Jupyter Notebook (.ipynb) files to PDF and HTML, right in your browser. No upload, no signup.
+- **[EasyFormat](https://easyformat.cn)** — A formatting tool for WeChat public account creators.
+
+#### 🛠 Tech & Interests
+
+- Frontend development, AI tooling, SEO
+- Building in public, learning in public
+- Exploring how humans and AI can co-evolve
+
+#### 📫 Find me
+
+- Website: [notebookconvert.com](https://notebookconvert.com)
+- GitHub: [@Hemajun2018](https://github.com/Hemajun2018)
+
+---
+
+*"The only way to do great work is to love what you do."*
