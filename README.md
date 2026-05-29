@@ -5,7 +5,13 @@ I'm an independent developer building AI-powered SaaS products for global users.
 #### 🚀 What I'm building
 
 - **[NotebookConvert](https://notebookconvert.com)** — A free, privacy-first tool to convert Jupyter Notebook (.ipynb) files to PDF and HTML, right in your browser. No upload, no signup.
-- **[EasyFormat](https://easyformat.cn)** — A formatting tool for WeChat public account creators.
+- **[EasyFormat](https://easyfomat.cn)** — 公众号 AI 智能排版助手 for WeChat Official Account creators. It helps writers turn drafts into polished, WeChat-compatible article layouts and paste them directly into the official account editor.
+
+#### 🔗 EasyFormat links
+
+- Website: [easyfomat.cn](https://easyfomat.cn)
+- Online formatter: [easyfomat.cn/formatter](https://easyfomat.cn/formatter)
+- Public GitHub page: [Hemajun2018/easyformat](https://github.com/Hemajun2018/easyformat)
 
 #### 🛠 Tech & Interests
 
